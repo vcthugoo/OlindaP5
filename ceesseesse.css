@@ -1,0 +1,36 @@
+
+
+
+ body {
+
+
+
+ background-color: white;
+margin: 30px;
+border-radius: 30px;
+box-shadow: 5px 5px 3px;
+font-family:  'Otomanopee One', sans-serif; 
+font-size: 1em;
+	background-image: linear-gradient (to right, ##EEE8AA #7CFC00);
+ 
+		background-color:#BCEE68 ;
+		                              
+		text-align-last:center;
+color: #008B45;
+	}
+
+	h1 {text-shadow: 1px 1px 2px;
+	color: darkgreen }
+p {color: darkgreen}
+
+h2 {text-align: left;
+	
+	color:darkgreen; }
+h3 {text-align: left;
+	
+	color:#2E8B57;}
+
+
+
+
+ul{margin: 40px 20px; }
